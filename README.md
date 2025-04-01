@@ -1,10 +1,23 @@
 # Natsumi Website
 
->Hello there! I am yxiao66666 and I am the smartest programmer that has ever lived.
+This is a web project built using HTML, CSS, and JavaScript. 
 
- So you might be wondering, who benefits from this repository? What is the repository for? The answer is simple: this repository is for my girlfriend XDXDXD. Now, my question to you is: 
- - What are you doing wasting your time reading this worthless description? 
- - Why don't you go and find an actual partner and stop thinking of these romances with the VTuber on your screen? 
+## Features
+- Feature 1: Responsive design
+- Feature 2: Interactive elements using JavaScript
+- Feature 3: Contact form
+
+## Installation & Usage
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/repository-name.git
+   ```
+2. Open the project folder and launch `index.html` in a browser.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
 ## Code Snippet
 
@@ -101,3 +114,7 @@ In fact, the god questioned my judgement and he asked me **"yxiao66666, are you 
 
 Developer: [yxiao66666](https://www.linkedin.com/in/yang~xiao/) \
 README Author: [Selinuntius02](https://www.linkedin.com/in/ryutohisamoto/)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
