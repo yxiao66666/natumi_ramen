@@ -133,7 +133,7 @@ body.about-page #page-header {
 /* menu page header background*/
 
 body.menu-page #page-header {
-	background-image: url(images/menu-head.jpg);
+	background-image: url(images/menu-head.JPG);
 }
 
 /* gallery page header background*/
@@ -145,7 +145,7 @@ body.gallery-page #page-header {
 /* contact page header background*/
 
 body.contact-page #page-header {
-	background-image: url(images/contact-head.jpg);
+	background-image: url(images/contact-head.JPG);
 }
 
 /* bookings page header background*/
