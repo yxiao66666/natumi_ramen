@@ -63,7 +63,7 @@ In fact, the god questioned my judgement and he asked me **"yxiao66666, are you 
 ### Menu Page
 - Customers can view the menu.
 <p align="center">
-  <img src = images/menu_screenshot.jpeg alt = "menu_screenshot" width = 60% >
+  <img src = images/menu_screenshot.jpg alt = "menu_screenshot" width = 60% >
 <p>
 <p align="center">
   Menu page Screenshots
@@ -90,7 +90,7 @@ In fact, the god questioned my judgement and he asked me **"yxiao66666, are you 
  ### Bookings Page
 - Customers can make a booking online.
 <p align="center">
-  <img src = images/booking_screenshot.jpeg alt = "booking_screenshot" width = 60% >
+  <img src = images/bookings_screenshot.jpeg alt = "bookings_screenshot" width = 60% >
 <p>
 <p align="center">
   Booking page Screenshots
