@@ -10,7 +10,7 @@ This is a web project built using HTML, CSS, and JavaScript.
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/yxiao66666/natumi_ramen.git
    ```
 2. Open the project folder and launch `index.html` in a browser.
 
@@ -50,8 +50,7 @@ function bookingValidateTime() {
 }
 ```
 
-In the code snippet above, you can see how I utilised the divine intellect. Obviously, the function checks if the bokking time is valid, and writing such a function was a piece of cake for me as I am a gifted programmer. \
-In fact, the god questioned my judgement and he asked me **"yxiao66666, are you worthy to be the man who creates the website for your girlfriend? If you are, you must answer: is this a junk, or is this divine intellect?"** I will leave you with that! Happy coding guys!
+In the code snippet above, you can see how I utilised the divine intellect. Obviously, the function checks if the booking time is valid. \
 
 ## Screenshots
 ### List of Sample Page
