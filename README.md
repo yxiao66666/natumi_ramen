@@ -111,7 +111,7 @@ In the code snippet above, you can see how I utilised the divine intellect. Obvi
  
 ## Contacts
 
-Developer: [yxiao66666](https://www.linkedin.com/in/yang~xiao/) \
+Developer: [yxiao66666](https://www.linkedin.com/in/yxiao66666/) \
 README Author: [Selinuntius02](https://www.linkedin.com/in/ryutohisamoto/)
 
 ## License
